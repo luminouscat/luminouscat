@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luminouscat
 - 👀 I’m interested in drawing and music
-- 🌱 I’m currently learning native and app development
+- 🌱 I’m currently learning react native and app development
 - I’m still a student thanks for all your help :)!
 
 <!---
